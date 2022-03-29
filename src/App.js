@@ -7,6 +7,7 @@ import NotFound from "./NotFound/NotFound";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./Home/Header/Header";
+import Footer from "./Home/Footer/Footer";
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
           <Route path="/register" element={<Register/>} />
 
           <Route path="*" element={<NotFound/>} />
-      </Routes>
+        </Routes>
+        <Footer/>
       </BrowserRouter>
     </div>
   );

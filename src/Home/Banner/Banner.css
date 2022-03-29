@@ -2,3 +2,12 @@
     height: 90vh;
     object-fit: cover;
 }
+
+
+
+
+@media only screen and (max-width: 798px)  {
+    .image{
+        height: 50vh;
+    }
+}

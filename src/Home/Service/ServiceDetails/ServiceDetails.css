@@ -1,0 +1,30 @@
+.cimg{
+   height: 160px;
+   object-fit: cover;
+}
+
+.card{
+    height: 23rem;
+    box-shadow: -4px 0px 15px -8px rgba(0,0,0,1);
+    background-color: blue;
+}
+
+.specing{
+    letter-spacing: 1px;
+}
+
+.card:hover{
+    margin-top: -15px;
+    transition: .4s ease-in-out;
+}
+
+.cardBtn{
+   border: none;
+   border-radius: 3px;
+   padding: 3px 10px;
+    color: white;
+    background: rgb(98, 37, 177);
+    box-shadow: -1px 4px 10px gray;
+    letter-spacing: 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

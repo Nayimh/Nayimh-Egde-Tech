@@ -46,14 +46,15 @@
             "id": 7,
             "Instructor": "Rosalie Haizlett",
             "CourseName": "Data Analysis With Python",
-            "image": "https://miro.medium.com/max/1400/1*Ptv1_9wX9O2Rm2IBklyufw.png",
+            "image": "https://i.ibb.co/pv1xBqB/download.jpg",
             "Price": 480
         },
         {
-            "id": 4,
+            "id": 8,
             "Instructor": "Charly Clements",
             "CourseName": "Android software development",
             "image": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg",
+            
             "Price": 600
         }
     
