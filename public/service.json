@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "Instructor": "Leanne Graham",
+        "CourseName": "Full stack web development",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtq52k2itfQUrMgLZHE3Wa3Qe2F092LHegDetL2ulzx-gg0_zNGSzfQ8pgbafNN6dit-8&usqp=CAU",
+        "Price": 800
+    },
+    {
+        "id": 2,
+        "Instructor": "Sean Dalton",
+        "CourseName": "UI / UX design",
+        "image": "https://i.ytimg.com/vi/ewJgxHQo0TU/maxresdefault.jpg",
+        "Price": 500
+    },
+    {
+        "id": 3,
+        "Instructor": "Thomas Frank",
+        "CourseName": "Data Science",
+        "image": "https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg",
+        "Price": 900
+    },
+    {
+        "id": 4,
+        "Instructor": "Gia Graham",
+        "CourseName": "IOS software development",
+        "image": "https://www.scoopbyte.com/wp-content/uploads/2021/07/ios-app-development-india.png",
+        "Price": 900
+    },
+    
+        {
+            "id": 5,
+            "Instructor": "Emma Gannon",
+            "CourseName": "HTML CSS Jacscript",
+            "image": "https://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png",
+            "Price": 400
+        },
+        {
+            "id": 6,
+            "Instructor": "Justin Bridges",
+            "CourseName": "3D Graphics design",
+            "image": "https://cdn.dribbble.com/users/546004/screenshots/11796433/media/bfe0fb52f5f17a69cda6362b2a57d37d.jpg?compress=1&resize=400x300",
+            "Price": 700
+        },
+        {
+            "id": 7,
+            "Instructor": "Rosalie Haizlett",
+            "CourseName": "Data Analysis With Python",
+            "image": "https://miro.medium.com/max/1400/1*Ptv1_9wX9O2Rm2IBklyufw.png",
+            "Price": 480
+        },
+        {
+            "id": 4,
+            "Instructor": "Charly Clements",
+            "CourseName": "Android software development",
+            "image": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg",
+            "Price": 600
+        }
+    
+]
