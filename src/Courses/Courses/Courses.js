@@ -6,7 +6,7 @@ const Courses = () => {
     const [courses, setCourses] = useState([]);
 
     useEffect(() => {
-        fetch('service.json')
+        fetch('./service.json')
             .then(res => res.json())
             .then(dt => setCourses(dt))
     }, [])

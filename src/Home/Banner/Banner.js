@@ -19,8 +19,8 @@ const Banner = () => {
       alt="First slide"
     />
     <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h3>online tech courses to boost your skills</h3>
+      <p>Looking to brush up on your tech skills while in quarantine? These 10 free online tech education outlets can help you advance your IT skills</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -31,8 +31,8 @@ const Banner = () => {
     />
 
     <Carousel.Caption>
-      <h3>Second slide label</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <h3>Earn Your Degree</h3>
+      <p>Learn a job-relevant skill that you can use today in under 2 hours through an interactive experience guided by a subject matter expert.</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -43,8 +43,8 @@ const Banner = () => {
     />
 
     <Carousel.Caption>
-      <h3>Third slide label</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      <h3>Kickstart Your Career in IT</h3>
+      <p>Learn a new tool or skill in an interactive, hands-on environment.</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
